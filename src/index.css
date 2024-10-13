@@ -1,0 +1,109 @@
+#root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+.driver-item {
+  border-style: groove;
+  border-width: 1rem;
+  border-radius: 1rem;
+  border-bottom: none;
+  border-left: none;
+}
+.team-item {
+  border-style: groove;
+  border-width: 1rem;
+  border-radius: 1rem;
+}
+/*
+  Her brukte jeg navnet på lag som klassenavn, siden det var eneste
+  verdi som var lik for både fører og lag
+*/
+.Mercedes-item {
+  border-color: rgba(15, 121, 89, 0.7);
+}
+.Mercedes-item:hover {
+  border: 1rem groove rgba(15, 121, 89, 0.7);
+  box-shadow: 1rem 1rem 3rem rgba(15, 121, 89, 0.7),
+    1rem 1rem 3rem rgba(15, 121, 89, 0.7) inset;
+}
+.Red-Bull-item {
+  border-color: rgba(14, 14, 209, 0.8);
+}
+.Red-Bull-item:hover {
+  border: 1rem groove rgba(14, 14, 209, 0.8);
+  box-shadow: 1rem 1rem 3rem rgba(14, 14, 209, 0.8),
+    1rem 1rem 3rem rgba(14, 14, 209, 0.8) inset;
+}
+.Ferrari-item {
+  border-color: rgba(247, 14, 14, 0.8);
+}
+.Ferrari-item:hover {
+  border: 1rem groove rgba(247, 14, 14, 0.8);
+  box-shadow: 1rem 1rem 3rem rgba(247, 14, 14, 0.8),
+    1rem 1rem 3rem rgba(247, 14, 14, 0.8) inset;
+}
+.McLaren-item {
+  border-color: rgba(245, 163, 10, 0.85);
+}
+.McLaren-item:hover {
+  border: 1rem groove rgba(245, 163, 10, 0.85);
+  box-shadow: 1rem 1rem 3rem rgba(245, 163, 10, 0.85),
+    1rem 1rem 3rem rgba(245, 163, 10, 0.85) inset;
+}
+.Aston-Martin-item {
+  border-color: rgba(9, 89, 78, 0.8);
+}
+.Aston-Martin-item:hover {
+  border: 1rem groove rgba(9, 89, 78, 0.8);
+  box-shadow: 1rem 1rem 3rem rgba(9, 89, 78, 0.8),
+    1rem 1rem 3rem rgba(9, 89, 78, 0.8) inset;
+}
+.Alpha-Tauri-item {
+  border-color: rgba(15, 6, 51, 0.75);
+}
+.Alpha-Tauri-item:hover {
+  border: 1rem groove rgba(15, 6, 51, 0.75);
+  box-shadow: 1rem 1rem 3rem rgba(15, 6, 51, 0.75),
+    1rem 1rem 3rem rgba(15, 6, 51, 0.75) inset;
+}
+.Alpine-item {
+  border-color: rgba(17, 132, 178, 0.9);
+}
+.Alpine-item:hover {
+  border: 1rem groove rgba(17, 132, 178, 0.9);
+  box-shadow: 1rem 1rem 3rem rgba(17, 132, 178, 0.9),
+    1rem 1rem 3rem rgba(17, 132, 178, 0.9) inset;
+}
+.Williams-item {
+  border-color: rgba(110, 197, 226, 0.733);
+}
+.Williams-item:hover {
+  border: 1rem groove rgba(110, 197, 226, 0.733);
+  box-shadow: 1rem 1rem 3rem rgba(110, 197, 226, 0.733),
+    1rem 1rem 3rem rgba(110, 197, 226, 0.733) inset;
+}
+.Haas-item {
+  border-color: rgba(182, 176, 176, 0.9);
+}
+.Haas-item:hover {
+  border: 1rem groove rgba(182, 176, 176, 0.9);
+  box-shadow: 1rem 1rem 3rem rgba(182, 176, 176, 0.9),
+    1rem 1rem 3rem rgba(182, 176, 176, 0.9) inset;
+}
+.Alfa-Romeo-item {
+  border-color: rgba(91, 6, 6, 0.9);
+}
+.Alfa-Romeo-item:hover {
+  border: 1rem groove rgba(91, 6, 6, 0.9);
+  box-shadow: 1rem 1rem 3rem rgba(91, 6, 6, 0.9),
+    1rem 1rem 3rem rgba(91, 6, 6, 0.9) inset;
+}
+.team-image {
+  width: 25%;
+}
+.team-image:hover {
+  width: 50%;
+}
