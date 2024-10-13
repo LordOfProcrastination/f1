@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\alexander-albon.png",
+      "PackagePath": "staticwebassets\\images\\alexander-albon.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\carlos-sainz.png",
+      "PackagePath": "staticwebassets\\images\\carlos-sainz.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\charles-leclerc.png",
+      "PackagePath": "staticwebassets\\images\\charles-leclerc.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\daniel-ricciardo.png",
+      "PackagePath": "staticwebassets\\images\\daniel-ricciardo.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\dick-dastardly.png",
+      "PackagePath": "staticwebassets\\images\\dick-dastardly.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\esteban-ocon.png",
+      "PackagePath": "staticwebassets\\images\\esteban-ocon.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\fernando-alonso.png",
+      "PackagePath": "staticwebassets\\images\\fernando-alonso.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\george-russel.png",
+      "PackagePath": "staticwebassets\\images\\george-russel.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\his-holiness.png",
+      "PackagePath": "staticwebassets\\images\\his-holiness.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\karlach.png",
+      "PackagePath": "staticwebassets\\images\\karlach.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\kevin-magnussen.png",
+      "PackagePath": "staticwebassets\\images\\kevin-magnussen.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\lance-stroll.png",
+      "PackagePath": "staticwebassets\\images\\lance-stroll.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\lando-norris.png",
+      "PackagePath": "staticwebassets\\images\\lando-norris.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\lewhiss-catmilton.png",
+      "PackagePath": "staticwebassets\\images\\lewhiss-catmilton.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\lewis-hamilton.png",
+      "PackagePath": "staticwebassets\\images\\lewis-hamilton.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\logan-sargeant.png",
+      "PackagePath": "staticwebassets\\images\\logan-sargeant.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\max-verstappen.png",
+      "PackagePath": "staticwebassets\\images\\max-verstappen.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\mysil-bergsprekken.png",
+      "PackagePath": "staticwebassets\\images\\mysil-bergsprekken.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\nico-hulkenberg.png",
+      "PackagePath": "staticwebassets\\images\\nico-hulkenberg.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\ola-halvorsen.png",
+      "PackagePath": "staticwebassets\\images\\ola-halvorsen.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\oscar-piastri.png",
+      "PackagePath": "staticwebassets\\images\\oscar-piastri.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\pierre-gasly.png",
+      "PackagePath": "staticwebassets\\images\\pierre-gasly.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\sergio-perez.png",
+      "PackagePath": "staticwebassets\\images\\sergio-perez.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\valtteri-bottas.png",
+      "PackagePath": "staticwebassets\\images\\valtteri-bottas.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\yuki-tsunoda.png",
+      "PackagePath": "staticwebassets\\images\\yuki-tsunoda.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\images\\zhou-guanyu.png",
+      "PackagePath": "staticwebassets\\images\\zhou-guanyu.png"
+    },
+    {
+      "Id": "C:\\Users\\henri\\OneDrive\\Skrivebord\\Eksamen-webutvikling\\F1API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.F1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.F1API.props",
+      "PackagePath": "build\\F1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.F1API.props",
+      "PackagePath": "buildMultiTargeting\\F1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.F1API.props",
+      "PackagePath": "buildTransitive\\F1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
