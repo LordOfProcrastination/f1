@@ -1,27 +1,12 @@
-# React + TypeScript + Vite
+# F1 Event
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created this project as part of my web-development exam. It contains information about a fictional event, includes information about the drivers and teams in this event and a quiz about F1.
+The project uses an API with full CRUD, so it is possible to view, add, edit and delete people from the event.
 
-Currently, two official plugins are available:
+## Technology used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I used Javascript and Typescript in my React project, and C# for my API. I used bootstrap as my CSS framework
 
-## Expanding the ESLint configuration
+### How to run application
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+You run this application by first acitvating the api using the "dotnet run" or "dotnet watch" command in your console inside the API folder. Then access the main folder and run "npm run dev".
